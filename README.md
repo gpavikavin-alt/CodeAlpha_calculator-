@@ -1,3 +1,5 @@
 # CodeAlpha_calculator-
 CodeAlpha_calculator
-[view here]https://www.linkedin.com/posts/pavithra-ganesan-b93602379_codalpha-frontenddevelopment-internshipexperience-activity-7407828010562863104-EINI?utm_source=share&utm_medium=member_android&rcm=ACoAAF2HLB8B2q0rbpBDeSUkpl17gIxrHqvZ0VQ
+[view here](C:\Users\pavit\OneDrive\Documents\Attachments\Desktop\clci\index.html)
+(C:\Users\pavit\OneDrive\Documents\Attachments\Desktop\clci\style.css)
+https://1drv.ms/f/c/bd81df8b38ab8d27/IgCK1JTxhmJOQJedRyiRbnRGAVdiszk5dxc3ARJzrOc-mfk?e=nXqEd1
